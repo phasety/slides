@@ -1,5 +1,5 @@
 :title: Phasety ♥ IDTQ
-:data-transition-duration: 1500
+:data-transition-duration: 1000
 :css: hovercraft.css
 
 **************
