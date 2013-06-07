@@ -1,5 +1,5 @@
 :title: Phasety ♥ IDTQ
-:data-transition-duration: 1500
+:data-transition-duration: 1000
 :css: hovercraft.css
 
 **************
@@ -35,8 +35,10 @@ A modo de pedido de disculpas
 
 ----
 
+:data-y: r1000
+
 Lo que *nunca* ha sido
---------------------------------
+-----------------------
 
 | Crear EBTs a partir de conocimiento especializado
 | No es común en Argentina
@@ -45,6 +47,8 @@ Lo que *nunca* ha sido
   no les enseñó (*¿Por qué?*)
 
 ----
+
+:data-x: r1500
 
 ¿Qué es una EBT?
 -----------------
@@ -57,6 +61,8 @@ Lo que *nunca* ha sido
    -- Dr. Lino Baraño, Ministro de Ciencia y tecnología.
 
 ----
+
+:data-y: r1000
 
 No me chamuyei negro ¿Qué lo que hacei en *faseti*?
 ---------------------------------------------------
@@ -77,9 +83,15 @@ De paso, bonito el logo, no?
 
 ----
 
+:data-rotate: 90
+:data-x: r1500
+
+
 *************
 ¿Qué hacemos?
 *************
+
+:data-y: r1000
 
 ----
 
@@ -90,12 +102,16 @@ Consultoría en termodinámica
 
 ----
 
+:data-y: r1000
+
 Software científico
 -------------------
 
   Utilizamos tecnologías modernas y probadas para el desarrollo de software de simulación y visualización
 
 ----
+
+:data-y: r1000
 
 Aplicado a la industria del petróleo
 ------------------------------------
@@ -104,11 +120,17 @@ Aplicado a la industria del petróleo
 
 ----
 
+:data-rotate: 90
+:data-x: r1500
+
+
 ******************
 Nuestros objetivos
 ******************
 
 ----
+
+:data-y: r1000
 
   | Ser felices
   | Crear una empresa sustentable
@@ -120,13 +142,16 @@ Nuestros objetivos
 
 ----
 
+:data-rotate: 90
+:data-y: r1500
+
 ************************
 Ajá. Y cómo empezó esto?
 ************************
 
 ----
 
-:data-scale: 0.1
+:data-y: r1000
 
 | 80's: Cismondi dejó de comer carne y se volvió ñoño
 | 2000/2005: Doctorado en Plapiqui e IVP-SEP (Dinamarca)
@@ -148,23 +173,33 @@ Transitando el valle de la muerte
 
 ------
 
+:data-rotate: 90
+
 ****************************
 ¿Hay posibilidades de éxito?
 ****************************
 
 ----
 
+:data-y: r1000
+
 .. image:: img/calsep.jpg
 
 ----
+
+:data-y: r1000
 
 .. image:: img/hydra.png
 
 ----
 
+:data-y: r1000
+
 .. image:: img/cmg.png
 
 ------
+
+:data-rotate: 90
 
 ¿Pero en Argentina?
 -------------------
@@ -173,6 +208,8 @@ Transitando el valle de la muerte
    :align: center
 
 ----
+
+:data-y: r1000
 
 Empretecno cierra en **2 semanas**
 
@@ -188,6 +225,8 @@ GPEC (debuggeado y relanzado) y Johannes
 .. image:: img/home.png
 
 ----
+
+:data-rotate: 90
 
 ***************************************************
 ¿Y el petróleo lo untan en el sanguche vegetariano?
@@ -206,6 +245,9 @@ GPEC (debuggeado y relanzado) y Johannes
 
 ----
 
+:data-y: r1000
+
+
 ***********************************
 Estamos resolviendo todo eso junto
 ***********************************
@@ -216,6 +258,8 @@ Y juntos
 
 
 ----
+
+:data-rotate: 90
 
 *************************
 Hasta ahora de qué comen?
@@ -233,6 +277,8 @@ Hasta ahora de qué comen?
 
 ----
 
+:data-rotate: 90
+
 **********************
 ¿De qué piensan comer?
 **********************
@@ -249,6 +295,8 @@ Hasta que pasemos el valle...
 | Vuelva a la diapositiva anterior
 
 ----
+
+:data-rotate: -90
 
 **********************************
 IDTQ querido, Phasety está contigo
@@ -272,6 +320,8 @@ Ideas para el
 
 ----
 
+:data-y: r1000
+
 **Ahora**
 
 | Trabajemos en Johannes colaborativamente
@@ -280,6 +330,8 @@ Ideas para el
 | Comamo'un asado, tomemo un ferné
 
 ----
+
+:data-y: r1000
 
 **Después**
 
@@ -297,6 +349,10 @@ Son las 4:45am.
    :align: center
 
 ----
+
+:id: ThreeD
+:data-y: r1200
+:data-rotate-x: 180
 
 Entonces...
 
